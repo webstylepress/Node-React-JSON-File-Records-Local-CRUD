@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Hello world",
+    "content": "Lorem ipsum dolor set amet ... webstylepress.com"
+  },
+  {
+    "id": 2,
+    "title": "This is list title",
+    "content": "Amet set dolor ipsum, Lorem ipsum dolor set amet .... @webstylepress"
+  },
+  {
+    "id": 3,
+    "title": "Lazy brown fox jumps over tree",
+    "content": "Lazy fox jumps over the hedge quickly and turns into a rabbit ... webstylepress"
+  },
+  {
+    "id": 4,
+    "title": "Data Test",
+    "content": "This data is being called via a data.json file - simple map loop ... WebStylePress"
+  }
+]
